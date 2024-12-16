@@ -1,11 +1,11 @@
 
-# Bug-Free Barnacle 
+# Bug-Free Barnacle - System Monitor CUI
 
-A real-time, Command-Line Interface (CUI) system monitor for tracking CPU, memory, disk, and network usage. The program continuously updates the system resources in an intuitive and user-friendly manner, with dynamic visualizations  and real-time alerts for resource consumption thresholds. It's a multifunctional tool for insightful system monitoring and analysis.
+A real-time, Command-Line Interface (CUI) system monitor for tracking CPU, memory, disk, and network usage. The program continuously updates the system resources in an intuitive and user-friendly manner, providing real-time data and alerts for resource consumption thresholds. It's a multifunctional tool for insightful system monitoring and analysis.
 
 ## Features
 
-- **Real-time CPU Monitoring**: Displays CPU usage.
+- **Real-time CPU Monitoring**: Displays real-time CPU usage.
 - **Memory and Disk Usage**: Provides real-time data on memory and disk usage.
 - **Network Usage**: Monitors and reports data sent and received over the network.
 - **Resource Usage Alerts**: Alerts when resource consumption exceeds set thresholds.
@@ -42,6 +42,11 @@ The monitor will start displaying real-time data about:
 - **Disk Usage**
 - **Network Usage**
 
+## Note
+
+The wake phrase for activating the system is:  
+**"Wake up daddy's home"**
+
 ## Contribution
 
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Suggestions for new features or improvements are always appreciated.
@@ -49,3 +54,5 @@ Contributions are welcome! If you'd like to contribute to the project, feel free
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
