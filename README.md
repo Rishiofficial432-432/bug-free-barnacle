@@ -32,7 +32,7 @@ pip install psutil rich
 Run the system monitor with:
 
 ```bash
-python system_monitor.py
+python main.py
 ```
 
 The monitor will start displaying real-time data about:
